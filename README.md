@@ -1,2 +1,2 @@
 # exerciseMEM
-R exercise for microeconometrics (I hate it)
+R exercise for microeconometrics
